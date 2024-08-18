@@ -26,7 +26,7 @@ Python binary = python3.11
 ```shell
 #!/bin/bash
 
-# 创建一个名为“樱花都”
+# 创建一个名为“sakura”文件
 touch sakura
 
 echo "文件 'sakura' 已创建"
@@ -47,6 +47,8 @@ from application import app as application
 这里的start.sh值上面的start.sh文件
 然后在panel—— Manage ——restat
 
+
+最后访问你的域名/start-local-file即可保活
 
 #完结
 
